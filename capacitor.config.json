@@ -1,0 +1,11 @@
+{
+  "appId": "net.mayswind.ariang",
+  "appName": "AriaNg",
+  "webDir": "dist",
+  "server": {
+    "androidScheme": "https"
+  },
+  "android": {
+    "allowMixedContent": true
+  }
+}
